@@ -23,7 +23,7 @@ Les relais sont commandés successivement ou simultanément. Le module Grove a s
 
 - **Lancer** le fichier exemple mb_4SPDTRelay_grove_example2.py
 
-Le module GRove est paramétré pour occuper l'addresse 0x31.
+Le module Grove est paramétré pour occuper l'addresse 0x31.
 
 ### Fonctions supportées
 
@@ -40,7 +40,7 @@ Le module GRove est paramétré pour occuper l'addresse 0x31.
 
 Version à venir : écriture des version ESP32
 
-[Liste des versions](https://github.com/FrdSln/ grove_i2c_driver_motor/tags)
+[Liste des versions](https://github.com/FrdSln/grove_4_channel_SPDT_relay/tags)
 
 ## Auteur
 

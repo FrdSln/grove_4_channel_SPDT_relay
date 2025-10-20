@@ -32,13 +32,13 @@ Le module Grove est paramétré pour occuper l'addresse 0x31.
 - Désactivation d'un relais : relais.turn_off_channel(n) avec n compris entre 1 et 4
 - Commande des 4 relais : relais.channel_control(k) avec k quartet des états des 4 relais
 - Affichage de la version du firmware : relais.getFirmwareVersion()
-- Modification de l'addresse I2C : relais.
+- Modification de l'addresse I2C : relais.changeI2CAddress(addresse_actuelle, nouvelle_addresse)
 
 ## Versions
 
 **Dernière version :** 2
 
-Version à venir : écriture des version ESP32
+[Version ESP32](https://gcworks.fr/tutoriel/esp/RelaisI2C4channelSPDTrelay.html)
 
 [Liste des versions](https://github.com/FrdSln/grove_4_channel_SPDT_relay/tags)
 
